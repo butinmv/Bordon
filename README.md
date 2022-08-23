@@ -1,3 +1,3 @@
 # Bordon
 
-Библиотека для Онбоардинга
+A description of this package.
